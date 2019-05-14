@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1571px" height="649px" viewBox="0 0 1571 649" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Hero/bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FFCC9A" offset="0%"></stop>
+            <stop stop-color="#FF7378" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#FFE694" offset="0%"></stop>
+            <stop stop-color="#FF8700" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#FFD7EE" offset="0%"></stop>
+            <stop stop-color="#FF009E" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#BDEBFF" offset="0%"></stop>
+            <stop stop-color="#0098FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#38BEFF" offset="0%"></stop>
+            <stop stop-color="#A5F0FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#37FF41" offset="0%"></stop>
+            <stop stop-color="#76EFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="30.8390023%" x2="100%" y2="50%" id="linearGradient-7">
+            <stop stop-color="#B8FFE6" offset="0%"></stop>
+            <stop stop-color="#00CB9F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="-49.8910072%" id="linearGradient-8">
+            <stop stop-color="#00E92B" offset="0%"></stop>
+            <stop stop-color="#CCFFA8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#FFD746" offset="0%"></stop>
+            <stop stop-color="#F6AC9A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing/Photo/short-text" transform="translate(-129.000000, -194.000000)">
+            <g id="Banner" transform="translate(-63.000000, 148.000000)">
+                <g id="Hero/bg" transform="translate(190.000000, 47.000000)">
+                    <path d="M12.5,22 L49.5,22 C50.3284271,22 51,22.6715729 51,23.5 L51,23.5 C51,24.3284271 50.3284271,25 49.5,25 L12.5,25 C11.6715729,25 11,24.3284271 11,23.5 L11,23.5 C11,22.6715729 11.6715729,22 12.5,22 Z" id="Rectangle-3" fill="url(#linearGradient-1)" opacity="0.349999994" transform="translate(31.000000, 23.500000) rotate(-30.000000) translate(-31.000000, -23.500000) "></path>
+                    <rect id="Rectangle-3" fill="url(#linearGradient-2)" opacity="0.287332589" transform="translate(746.000000, 274.500000) rotate(-30.000000) translate(-746.000000, -274.500000) " x="711" y="273" width="70" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle-3" fill="url(#linearGradient-3)" opacity="0.591238839" transform="translate(1495.000000, 417.500000) rotate(-30.000000) translate(-1495.000000, -417.500000) " x="1480" y="416" width="30" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle-3" fill="url(#linearGradient-4)" opacity="0.237444196" transform="translate(516.000000, 635.500000) rotate(-30.000000) translate(-516.000000, -635.500000) " x="496" y="634" width="40" height="3" rx="1.5"></rect>
+                    <circle id="Oval" stroke="url(#linearGradient-5)" stroke-width="2" cx="617" cy="8" r="4"></circle>
+                    <circle id="Oval" stroke="url(#linearGradient-6)" stroke-width="2" opacity="0.650446429" cx="8" cy="642" r="5"></circle>
+                    <polygon id="Path-5" stroke="url(#linearGradient-7)" stroke-width="2" opacity="0.65859375" transform="translate(1185.500000, 7.500000) rotate(-179.000000) translate(-1185.500000, -7.500000) " points="1175 1 1185.59836 14 1196 1"></polygon>
+                    <polygon id="Path-5" stroke="url(#linearGradient-8)" stroke-width="2" opacity="0.65859375" transform="translate(12.500000, 329.500000) rotate(-228.000000) translate(-12.500000, -329.500000) " points="2 323 12.5983607 336 23 323"></polygon>
+                    <circle id="Oval" stroke="url(#linearGradient-9)" stroke-width="2" opacity="0.5" cx="1072" cy="638" r="5"></circle>
+                    <circle id="Oval" stroke="url(#linearGradient-5)" stroke-width="2" opacity="0.576450893" cx="1573.5" cy="117.5" r="47.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

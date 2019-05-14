@@ -1,0 +1,1329 @@
+{
+  "title": "Bienvenue sur react ",
+  "navigation": {
+    "home": "Accueil",
+    "newProduction": "Nouvelle Inspiration",
+    "back": "Retour",
+    "backToGallery": "Retour à la galerie",
+    "backWebApp": "Retour à la Web App",
+    "listProductions": "Galerie d'inspiration",
+    "listProductionsAdmin": "Gestion des inspirations (Admin)",
+    "listProductionsSeller": "Gestion des inspirations (Seller)",
+    "productionInValidation": "Inspirations en attente de validation",
+    "yes": "Oui",
+    "no": "Non",
+    "signout": "Déconnexion",
+    "profile": "Mon profil",
+    "profilentreprise": "Profil entreprise",
+    "tenders": "Appels d'offres",
+    "quotes": "Mes cotations",
+    "projects": "Mes projets",
+    "ongoingProjects": "En cours",
+    "closedProjects": "Clos",
+    "team": "Mes équipes",
+    "docs": "Documents entreprise",
+    "help_online": "Aide en ligne",
+    "myGallery": "Mes inspirations",
+    "moreFilters": "Plus de filtres",
+    "filter": "Filtrer",
+    "signIn": "Se connecter",
+    "signUp": "S'inscrire",
+    "howItWork": "Comment ça marche",
+    "packitooLab": "Packitoo Lab'",
+    "galleryPublic": "Inspirations",
+    "blog": "Blog",
+    "createAccount": "Créer un compte",
+    "connect": "Me connecter",
+    "clientArea": "Espace client",
+    "supplierArea": "Espace fournisseur",
+    "goToMySpace": "Aller à mon interface"
+  },
+  "seo": {
+    "landing": {
+      "title": "Packitoo - Le Packaging ultra personnalisé enfin simplifié !",
+      "description": "L'achat d'emballage sur-mesure révolutionné par une application intelligente et optimisée. Packitoo vous aide à aller plus vite et faire mieux, pour moins cher."
+    },
+    "about": {
+      "title": "À propos de Packitoo - Qui sommes-nous ?",
+      "description": "Mettez un brin de philo, saupoudrez de valeurs fortes, terminez avec quelques témoignages. C’est l’à propos de Packitoo."
+    },
+    "faq": {
+      "title": "Support Client | Packitoo",
+      "description": "Découvrez comment utiliser au mieux Packitoo. Apprenez-en davantage sur les fonctionnalités et nos services, obtenez des réponses à vos questions."
+    },
+    "faqSupplier": {
+      "title": "Support Fournisseur | Packitoo",
+      "description": "Découvrez comment développer votre business avec Packitoo. Apprenez-en davantage sur nos outils et obtenez des réponses à vos questions."
+    },
+    "howItWorks": {
+      "title": "Packitoo - Comment ça marche ?",
+      "description": "Avec le savoir-faire de nos experts pack combiné à la puissance du numérique, n'ayez aucun doute, votre projet est entre de bonnes mains ! On vous explique tout ici."
+    },
+    "production": {
+      "title": "La Galerie d'Inspirations Packitoo",
+      "description": "Découvrez les meilleures créations de nos fournisseurs. Vous n'avez plus qu'à vous concentrer sur l'essentiel : la personnalisation de votre emballage."
+    },
+    "supplierArea": {
+      "title": "Développez votre business | Packitoo - Espace Fournisseur",
+      "description": "Intégrez de nouveaux projets clients au bon moment, développez votre chiffre d’affaire efficacement. Ensemble, nous sommes Packitoo."
+    },
+    "packitooLab": {
+      "title": "Le Packitoo Lab | Packitoo",
+      "description": "Vous avez une idée plus ou moins précise de votre projet ? Pas encore prêt pour déposer votre brief en ligne ? Le Packitoo Lab' est là pour vous accompagner."
+    },
+    "signIn": {
+      "title": "Connexion ou inscription | Packitoo",
+      "description": "Connectez-vous à Packitoo et entrez dans la première place de marché qui révolutionne la relation entre marques et fabricants d'emballages."
+    },
+    "signUpBrand": {
+      "title": "Formulaire d'inscription Marque | Packitoo"
+    },
+    "signUpSeller": {
+      "title": "Formulaire d'inscription Fournisseur | Packitoo"
+    },
+    "terms": {
+      "title": "Conditions Générales | Packitoo"
+    },
+    "legalNotice": {
+      "title": "Mentions Légales | Packitoo"
+    },
+    "passwordForget": {
+      "title": "Mot de passe oublié | Packitoo"
+    }
+  },
+  "noMatch": {
+    "notFound": "Page introuvable",
+    "advice": "Assurez vous que l'adresse saisie soit correcte."
+  },
+  "landing": {
+    "player": {
+      "firstStep": {
+        "title": "Votre packaging sur mesure",
+        "iconOne": "Configurez",
+        "iconOneSubtitle": "vous savez ce que vous voulez",
+        "iconTwo": "Imaginez",
+        "iconTwoSubtitle": "vous ne savez pas ce que vous voulez"
+      },
+      "imagine": {
+        "inspireYourself": "Inspirez-vous",
+        "discoverLab": "Découvrez le lab'"
+      },
+      "configure": {
+        "other": "Autres emballages",
+        "product": "Quel produit cherchez vous ?",
+        "errorProduct": "Désolé, nous ne pouvons pas lancer le sourcing numérique pour d'autres types d'emballages.<br />Mais nous ne vous laissons pas tomber !",
+        "errorBudget": "Désolé, nous ne pouvons lancer le sourcing numérique qu'à partir de 1500€ de commande minimum.<br />Mais nous ne vous laissons pas tomber !",
+        "contactBtn": "Contactez-nous",
+        "tipBudget": "Ou augmentez vos quantités et/ou budget max",
+        "finalize": "Finalisez votre configuration",
+        "price": "Prix unitaire"
+      }
+    },
+    "footer": {
+      "howItWorks": "Comment ça marche ?",
+      "aboutUs": "Qui sommes-nous ?",
+      "QABrand": "FAQ Client",
+      "QASeller": "FAQ Fournisseur",
+      "btnAction": "Je dépose mon brief",
+      "title": "Inscrivez-vous,",
+      "subTitle": "et lancez votre projet",
+      "terms": "Conditions générales",
+      "legalNotice": "Mentions légales"
+    },
+    "partners": {
+      "supportUs": "Ils<br />nous<br />soutiennent",
+      "thanks": "Merci<br />à nos<br />partenaires"
+    },
+    "newsletter": {
+      "title": "Abonnez-vous à notre newsletter",
+      "subTitle": "Chaque mois toute notre actu",
+      "email": "Mon adresse e-mail"
+    },
+    "galleryPreview": {
+      "title": "Votre futur packaging : une infinité de possibilités",
+      "boxAction": "Découvrir nos produits",
+      "inspireYourself": "Inspirez-vous",
+      "box1": "Étuis à fenêtre",
+      "box2": "Formes originales",
+      "box3": "Boites rondes",
+      "box4": "Sacs shopping",
+      "box5": "Coffret cloche en pet"
+    },
+    "testimonials": {
+      "title": "Ils parlent de nous",
+      "authorJobOne": "Responsable des opérations",
+      "testimonialOne": "Une première expérience vraiment réussie ! Le brief est rapide à remplir, l'équipe est dynamique et n'hésite pas à vous contacter pour préciser le besoin. Les devis arrivent assez vite et la mise en relation avec les fournisseurs est fluide. Une fois cette dernière effectuée, Packitoo sait se faire discret tout en s'assurant que le projet se développe bien. En plus d'être de qualité, les fournisseurs sont sérieux et proactifs. Je n’hésiterai surtout pas à repasser par Packitoo si nécessaire.",
+      "testimonialTwo": "Packitoo, c’est vraiment le service que j’attendais pour sourcer mes packagings. Personnellement, je connais bien le packaging parce que je dois savoir comment chaque emballage impacte mes produits et mon organisation du travail. Aujourd’hui, je peux être autonome dans l’élaboration de mon cahier des charges. Sur Packitoo, je peux le déposer en quelques minutes, une seule fois, et Packitoo me connecte avec des fabricants intéressés, compétitifs et fiables.",
+      "testimonialThree": "Packitoo m’accompagne depuis 1 an dans la refonte et le sourcing de mes emballages personnalisés. Leur expertise packaging couplée à leur outil numérique a produit des résultats exceptionnels pour Flex On. Je recommande à toutes les PME qui, comme moi, ont tant de sujets à traiter avec des ressources contraintes. Rapidement, Packitoo est devenu de part leur engagement, et leur travail, le partenaire idéal en solutions packaging pour Flex-on."
+    },
+    "home": {
+      "title": "Réaliser son packaging 100% personnalisé n'a jamais été aussi simple",
+      "subTitle": "Quelques clics suffisent pour rencontrer le meilleur fournisseur",
+      "discoverBtn": "Je découvre le concept",
+      "submitBtn": "Je dépose mon brief",
+      "demoBtn": "Demander une demo",
+      "back": "Retour"
+    },
+    "about": {
+      "title": "À propos de Packitoo",
+      "subTitle": "Mettez un brin de philo, saupoudrez de valeurs fortes, terminez avec quelques témoignages. C’est l’à propos de Packitoo",
+      "intro": "Le mot des fondateurs",
+      "infosTitle": "Les origines",
+      "infos": "<p><strong>Quand le packaging danse au rythme du paquito…</strong></p><p>Tous deux originaires du Sud-Ouest de la France, nos fondateurs ont été « bercés » par le chant du paquito. Vous savez ? Cette danse collective basque où des gens s’assoient par terre et portent les “danseurs” au-dessus de leurs têtes au rythme des trompettes !</p><p>Dans notre « paquito », il y a d’abord notre communauté de fabricants et distributeurs de packaging : des professionnels avec qui nous entretenons de vraies relations et à qui nous posons les bonnes questions. Il y a nous, l’équipe Packitoo, qui mêle plus de 20 ans d’expertise dans l’univers du packaging, de la conception à la fabrication, côté marque et côté fabricant. Et enfin, il y a vous, les marques, qui dansez avec nous !</p><p>Alors allez-y, lancez-vous, on ne vous laissera pas tomber !</p>",
+      "quoteOne": "Co-Fondateur<br>Pour sourcer un pot de verre 45mL standard, il m’a fallu passer pas moins de 12 coups de téléphone (demande de catalogues, d’offres de prix et d’échantillons), écrire 4 emails de relance et finalement mettre plus de 3 mois pour me rendre compte qu’aucun produit répondant à mes critères n’était disponible, à moins de quantités exorbitantes. De ce constat, issu d’autres projets de développement de pack, est née ma conviction qu’il y a urgence à améliorer l’expérience de développement packaging et les outils digitaux répondent à cet enjeu.",
+      "quoteTwo": "Co-Fondatrice<br>Depuis 15 ans, je développe ma société de packaging avec la même ambition acharnée de conquérir de nouveaux marchés/clients ! Mais ce processus de conquête est laborieux, fastidieux, et souvent frustrant. Appels téléphoniques, campagnes d’e-mailing hasardeuses, et prises de RDV parfois peu qualifiés peuvent s’avérer inefficaces et coûteux. Avec les technologies actuelles, Packitoo va permettre aux fabricants d’arriver au bon moment sur des appels d’offres qualifiés. Je gage que l’économie ainsi réalisée sur les coûts commerciaux va glisser vers des investissements dans leurs outils de production ou en recherche et développement, qui leur permettront de gagner les marchés de demain."
+    },
+    "legalNotice": "Editeur<br />Le site est entièrement financé et actualisé par la société Packitoo (Packitoo SAS, 1 avenue Mirabelle, 64000 PAU, France, SIREN 831 200 746 RCS Pau au capital de 33 300,00 €).<br />Directeur de publication : Thomas Othax<br />Hébergeur<br />Ce site est hébergé en Allemagne par la société Amazon Web Services: Amazon Web Services LLC P.O. Box 81226 Seattle, WA 98108-1226  http://aws.amazon.com",
+    "howItWorks": {
+      "title": "Comment ça marche ?",
+      "subTitle": "Besoin de développer un nouveau packaging personnalisé ? Ou de recommander un packaging existant ? Avec le savoir-faire de nos experts pack combiné à la puissance du numérique, n'ayez aucun doute, votre projet est entre de bonnes mains ! <br /> On vous explique tout ici.",
+      "process": {
+        "title": "Le Process",
+        "btnTitle": "Je dépose mon brief",
+        "processOneTitle": "1. Je dépose mon brief",
+        "processOneInfos": "Connectez-vous et déposez votre brief. Quelques clics et quelques minutes suffisent pour énoncer votre projet packaging. Validez-le, nos experts packaging sont notifiés et reviennent vers vous. Votre appel d'offres est lancé!",
+        "processTwoTitle": "2. Je reçois et compare mes offres",
+        "processTwoInfos": "Seuls les fournisseurs les mieux à même de répondre à votre besoin participent à votre appel d’offre. Ils peuvent tous échanger avec vous de façon confidentielle. Détendez-vous, Packitoo formalise la remise des offres : comparaison simplifiée des offres de prix, informations fabricant, notes et commentaires d’autres utilisateurs.",
+        "processThreeTitle": "3. Je passe commande",
+        "processThreeInfos": "Sélectionnez la proposition qui vous convient le mieux et finalisez votre projet en ligne avec le fournisseur retenu; jusqu'à la livraison de vos nouveaux packagings."
+      },
+      "benefits": {
+        "title": "Les Bénéfices",
+        "titleOne": "Aggrégation",
+        "infosOne": "Avec Packitoo, fini les interminables appels d’offre tortueux et infructueux. Connectez tous vos projets d’emballages personnalisés aux meilleurs fournisseurs de packaging du monde entier et retrouvez-les dans un seul et même espace de travail.",
+        "titleTwo": "Optimisation",
+        "infosTwo": "Simplifiez-vous la vie et ne perdez plus de temps sur des tâches à faible valeur. L’outil travaille pour vous et vous propose la meilleure offre technico-économique du moment grâce à un parfait matching entre votre projet et des capacités industrielles.",
+        "titleThree": "Transparence",
+        "infosThree": "Qui dit intermédiaire, ne dit pas forcément perte d’information, au contraire ! Sur Packitoo, vous connaissez les fournisseurs de packaging avec lesquels vous collaborez (origine, certification, savoir-faire...) et échanger en direct avec eux via notre chat en ligne.",
+        "titleFour": "Expertise",
+        "infosFour": "Packitoo, c’est aussi une équipe d’experts techniques et de designers packaging. Besoin d’optimiser votre cahier des charges ? Besoin de transformer une simple idée en un superbe packaging ? Nos équipes sont à votre écoute."
+      },
+      "infos": {
+        "title": "Qui sont nos fabricants d'emballages et vos futurs fournisseurs ?",
+        "textOne": "Packitoo fédère une communaute de plus de 250 fabricants et distributeurs de packaging sélectionnés parmis les meilleurs au Monde.",
+        "textTwo": "Français, Espagnols, Portugais, Italiens, Néerlandais, Allemands, Anglais, Chinois, Indiens, Bulgares, Turques... ils ont été choisis parce qu’ils produisent des emballages personnalisés de grande qualité, avec un service soigné, au meilleur prix. Tout en partageant nos valeurs."
+      }
+    },
+    "faq": {
+      "title": "Besoin d'aide ?",
+      "subTitle": "Assistance",
+      "helper": "(Cliquez sur la question pour voir la réponse)",
+      "client": {
+        "title": "F.A.Q Clients",
+        "one": {
+          "question": "Quels emballages puis-je réaliser par l'intermédiaire de Packitoo ?",
+          "answer": "Packitoo est encore au d&#xE9;but de son d&#xE9;veloppement et grandit de jour en jour. A ce stade, les produits d&apos;emballages personnalis&#xE9;s sont principalement des emballages secondaires. Notre outil consolide une communaut&#xE9; de fournisseurs sp&#xE9;cialis&#xE9;e dans les boites, &#xE9;tuis, coffrets, sur-emballages, PLV, sac shopping dans de nombreux mat&#xE9;riaux (papier, carton, m&#xE9;tal, bois, tissu, jute...). Mais tr&#xE8;s vite, d&apos;autres familles de produits seront ouvertes ! <a href=\"/inspirations\">Galerie d&apos;Inspirations</a>"
+        },
+        "two": {
+          "question": "Comment faire pour déposer un brief ? Combien de temps cela me prend-il ?",
+          "answer": "Pour d&#xE9;poser un brief sur notre site, vous devez cr&#xE9;er un compte Client, gratuitement. Une fois votre compte cr&#xE9;&#xE9;, vous acc&#xE9;derez &#xE0; votre espace d&#xE9;di&#xE9; au sein duquel vous pourrez d&#xE9;poser vos briefs et &#xE9;changer avec les fournisseurs de notre communaut&#xE9;. Le d&#xE9;p&#xF4;t de votre brief prend entre 5 et 15 minutes selon la complexit&#xE9; de votre demande. A n&apos;importe quel moment, vous pouvez discuter avec nos experts pour qu&apos;ils vous accompagnent dans cette d&#xE9;marche. <a href=\"https://app.packitoo.com/users/sign_up?role=brand&amp;locale=fr\">D&#xE9;poser votre brief en ligne</a><br> Vous pouvez &#xE9;galement cr&#xE9;er un brief &#xE0; partir d&apos;une Inspiration <a href=\"/inspirations\">Galerie d&apos;Inspirations.</a><br> Si une Inspiration vous s&#xE9;duit, vous pouvez finaliser sa configuration en cliquant sur &quot;Personnaliser&quot;. Le brief technique sera pr&#xE9;-rempli des informations techniques de l&apos;Inspiration et vous n&apos;aurez plus qu&apos;&#xE0; affiner sa configuration."
+        },
+        "three": {
+          "question": "A quoi servent les Inspirations de Packitoo?",
+          "answer": "Packitoo cr&#xE9;e une galerie d&apos;images et d&apos;informations techniques pour les emballages sur-mesure. Vous pouvez filtrer la galerie avec de nombreux mots-cl&#xE9;s et acc&#xE9;der ainsi &#xE0; des id&#xE9;es et innovations packaging simplement. En cliquant sur une Inspiration, vous pouvez acc&#xE9;der &#xE0; sa configuration technique et obtenir des estimations de prix instantan&#xE9;es (*). Si un produit vous int&#xE9;resse et que vous souhaitez finaliser sa configuration, vous pouvez le faire depuis la <a href=\"/inspirations\">galerie</a>.<br> (*) informations r&#xE9;serv&#xE9;es aux Utilisateurs disposant d&apos;un compte Client."
+        },
+        "four": {
+          "question": "Qu'est-ce qu'une estimation de prix par Packitoo?",
+          "answer": "Packitoo consolide des informations de prix sur tous types d&apos;emballages personnalis&#xE9;s. Notre &#xE9;quipe de d&#xE9;veloppement et de recherche en intelligence artificielle d&#xE9;veloppe des algorithmes pour faire des estimations de prix instantan&#xE9;es sur des emballages personnalis&#xE9;s.<br> Si Packitoo sugg&#xE8;re une estimation du prix d&apos;un emballage, celle-ci est toujours assortie d&apos;un niveau de fiabilit&#xE9;. Plus ce niveau est &#xE9;lev&#xE9;, plus il est probable que l&apos;estimation de prix corresponde au prix final r&#xE9;alis&#xE9; par un fabricant.<br> Si Packitoo estime avoir trop peu d&apos;informations pour faire une estimation du prix d&apos;un packaging, aucune estimation n&apos;est propos&#xE9;e."
+        },
+        "five": {
+          "question": "L'estimation de prix d'un packaging correspond-elle au prix final que je vais payer pour un emballage personnalisé?",
+          "answer": "L&apos;estimation de prix fournie par Packitoo ne correspond pas au prix final propos&#xE9; par un Fournisseur. L&apos;objectif de cette estimation est bien s&#xFB;r qu&apos;elle soit si fiable qu&apos;elle corresponde au prix final. Cependant, de nombreux param&#xE8;tres peuvent cr&#xE9;er un &#xE9;cart entre une estimation de prix et un prix final (saisonnalit&#xE9; de production, variation des prix des mati&#xE8;res premi&#xE8;res, modification d&apos;un parc machine...). C&apos;est pourquoi, &#xE0; partir d&apos;une estimation de prix, vous pouvez rencontrer les Fournisseurs pour finaliser le devis et obtenir le prix r&#xE9;el."
+        },
+        "six": {
+          "question": "Quels sont les délais de réponse des fournisseurs ?",
+          "answer": "Le temps de r&#xE9;ponse pour recevoir les cotations des Fabricants de notre communaut&#xE9; est fix&#xE9; &#xE0; 5 jours ouvr&#xE9;s, une fois votre demande valid&#xE9;e par nos experts. Lorsque vous validez votre brief :<br> - nos experts v&#xE9;rifient la coh&#xE9;rence de votre demande puis la valident ou reviennent vers vous dans la journ&#xE9;e.<br> - une fois votre brief valid&#xE9;, nous le connectons aux meilleurs fournisseurs, qui peuvent ainsi rejoindre votre projet et saisir leur cotation dans les 5 jours ouvr&#xE9;s suivants.<br> Vous &#xEA;tes press&#xE9;? Contactez-nous pour que nous acc&#xE9;l&#xE9;rions la remise des offres."
+        },
+        "seven": {
+          "question": "Je suis un Client, combien me coûte ce service ?",
+          "answer": "Par d&#xE9;faut, <strong>le service de sourcing et de d&#xE9;veloppement est gratuit</strong>*.<br> Si notre &#xE9;quipe d&apos;expert &#xE9;value que votre brief est incoh&#xE9;rent ou trop incomplet pour obtenir des cotations des Fournisseurs, nous revenons vers vous pour pr&#xE9;ciser votre projet.<br> Si vous avez besoin du Packitoo Lab&apos; pour vous aider &#xE0; concevoir et designer vos packagings sur-mesure, nous formalisons une m&#xE9;thodologie et une proposition commerciale adapt&#xE9;e. Visitez le <a href=\"packitoo-lab-fr.html\">Packitoo Lab&apos;</a><br> *<i>si aucun accompagnement du Packitoo Lab&apos; n&apos;est jug&#xE9; n&#xE9;c&#xE9;ssaire par nos experts.</i>"
+        },
+        "eight": {
+          "question": "Qu'est-ce que le Packitoo Lab'?",
+          "answer": "Packitoo n&apos;est pas seulement une application web. De part notre histoire, nous disposons d&apos;une &#xE9;quipe d&apos;experts et de designers pack en mesure d&apos;accompagner de A &#xE0; Z les Clients dans le d&#xE9;veloppement de leur projet de packaging personnalis&#xE9; : id&#xE9;ation, conception, charte graphique packaging, documents d&apos;ex&#xE9;cution, suivi de projet...<br>  Visitez le <a href=\"packitoo-lab-fr.html\">Packitoo Lab&apos;</a>"
+        },
+        "nine": {
+          "question": "Pourquoi faire appel au Packitoo Lab'?",
+          "answer": "Bien concevoir, bien designer un packaging personnalis&#xE9;, c&apos;est fondamental et &#xE7;a ne s&apos;invente pas.<br> Le packaging est le premier vendeur de la plupart des produits physiques. Bien con&#xE7;u, bien design&#xE9;, il augmente la valeur per&#xE7;ue de vos produits et assure la croissance de vos ventes. Bien pens&#xE9;, il co&#xFB;te moins cher, est plus &#xE9;cologique, mieux adapt&#xE9; &#xE0; vos contraintes logistiques (packaging ecommerce). En clair, le Packitoo Lab&apos; peut augmenter vos ventes et vos marges. En bref, c&apos;est un investissement &#xE0; fort retour sur investissement."
+        },
+        "ten": {
+          "question": "Qui sont les utilisateurs de Packitoo ?",
+          "answer": "Packitoo consolide deux communaut&#xE9;s de personnes r&#xE9;solument orient&#xE9;es packaging :<br> - les Clients, de la startup au Grands groupes, qui cherchent &#xE0; optimiser leur temps dans la recherche et la r&#xE9;alisation de leurs emballages personnalis&#xE9;s, &#xE0; optimiser leur budget en d&#xE9;couvrant projet par projet les meilleurs fabricants &#xE0; m&#xEA;me de r&#xE9;pondre &#xE0; leurs demandes.<br> - les Fabricants d&apos;emballages, de l&#x2019;imprimeur local &#xE0; l&#x2019;industriel global, qui cherchent &#xE0; d&#xE9;couvrir de nouveaux clients ayant des projets d&#x2019;emballages personnalis&#xE9;s correspondant &#xE0; leur capacit&#xE9; industrielle et leur strat&#xE9;gie commerciale."
+        },
+        "eleven": {
+          "question": "Comment sont sélectionnés les Fournisseurs membres de votre communauté ?",
+          "answer": "Packitoo conna&#xEE;t et travaille en &#xE9;troite collaboration avec tous les Fabricants membres de sa communaut&#xE9;. Nous veillons &#xE0; r&#xE9;f&#xE9;rencer uniquement des acteurs de qualit&#xE9; qui travaillent en accord avec nos engagements. Nous veillons &#xE0; vous mettre en relation avec des professionnels sp&#xE9;cialistes dans leur domaine en terme de technicit&#xE9; (mat&#xE9;riaux, techniques d&apos;impression, techniques de fabrication) mais aussi en terme de capacit&#xE9; de production (petite, moyenne, grande s&#xE9;rie)."
+        },
+        "twelve": {
+          "question": "Combien de Fournisseurs sont référencés sur Packitoo?",
+          "answer": "Nous travaillons aujourd&apos;hui avec pr&#xE8;s de <strong>250 fournisseurs</strong> d&apos;emballages personnalis&#xE9;s."
+        },
+        "thirteen": {
+          "question": "Où sont localisés les Fournisseurs de la communauté Packitoo ?",
+          "answer": "Les Fournisseurs membres de notre communaut&#xE9; sont issus du monde entier, essentiellement d&apos;Europe (France, Europe de l&apos;Ouest, Europe centrale, Europe de l&apos;Est) et d&apos;Asie (Chine, Inde, Vietnam&#x2026;)."
+        },
+        "fourteen": {
+          "question": "Puis-je entrer en contact directement avec eux ? Comment ?",
+          "answer": "Une fois qu&apos;un Fournisseur a rejoint votre projet, il vous est possible de communiquer avec lui via le chat du projet de fa&#xE7;on priv&#xE9;e. Vous pouvez &#xE9;galement le contacter par d&apos;autres moyens selon votre souhait. Pour &#xE9;viter toute incompr&#xE9;hension et potentielle erreur, nous vous invitons cependant &#xE0; garder une trace &#xE9;crite de tous vos &#xE9;changes avec le Fournisseur dans Packitoo, soit via le chat, soit via votre brief."
+        },
+        "fifteen": {
+          "question": "Une proposition d'un Fournisseur m'intéresse. Comment puis-je lancer ma commande?",
+          "answer": "En cliquant sur &quot;Choisir&quot; dans la page &quot;Cotations&quot; de votre projet, vous notifiez le fournisseur de votre choix qu&apos;il est retenu pour votre projet. Cela n&apos;est pas une signature &#xE9;lectronique de devis. Vous pouvez alors lui demander son devis, sur l&apos;en-t&#xEA;te, pour le signer et lui retourner via le projet. Puis initier les derni&#xE8;res d&#xE9;marches n&#xE9;cessaires au lancement de votre production."
+        },
+        "sixteen": {
+          "question": "Mes identifiants ne fonctionnent pas, que dois-je faire ?",
+          "answer": "Vous rencontrez un message d&apos;erreur &#xE0; la connexion &#xE0; votre espace ?<br> Avant tout, veuillez v&#xE9;rifier que vous avez correctement saisi votre &#xAB; email &#xBB; et/ou votre &#xAB; mot de passe &#xBB; et que les touches &#xAB; Majuscule/Minuscule &#xBB; soient correctement activ&#xE9;es.<br> Si cela ne fonctionne toujours pas, nous vous proposons de r&#xE9;initialiser vos identifiants en suivant les instructions suivantes :<br> - rendez-vous sur la page de connexion de votre espace (<a href=\"https://app.packitoo.com?locale=fr\">Espace Marque</a> / <a href=\"https://app.packitoo.com?locale=fr\">Espace Fabricant</a>)<br> - cliquez sur le lien &#xAB; mot de passe oubli&#xE9; &#xBB;<br> - saisissez votre email afin de recevoir les instructions pour le r&#xE9;initialiser.<br> Si le probl&#xE8;me persiste, merci de nous contacter par mail &#xE0; <a href=\"mailto:contact@packitoo.com\">contact@packitoo.com</a>"
+        },
+        "seventeen": {
+          "question": "J'ai oublié mon mot de passe",
+          "answer": "En cas d&apos;oubli de votre mot de passe, vous pouvez le r&#xE9;initialiser tr&#xE8;s simplement :<br> - rendez-vous sur la page de connexion de votre espace (<a href=\"https://app.packitoo.com?locale=fr\">Espace Marque</a> / <a href=\"https://app.packitoo.com?locale=fr\">Espace Fabricant</a>)<br> - cliquez sur le lien &#xAB; mot de passe oubli&#xE9; &#xBB;<br> - saisissez votre email afin de recevoir les instructions pour le r&#xE9;initialiser."
+        },
+        "eighteen": {
+          "question": "Quelles sont les règles de confidentialité sur Packitoo ? Comment suis-je sûr(e) que mes informations\npersonnelles ou celles de mes projets d'emballages ne sont pas diffusées à n'importe qui?",
+          "answer": "Les Fournisseurs doivent accepter des conditions g&#xE9;n&#xE9;rales de Vente en s&apos;inscrivant sur Packitoo; qui incluent des r&#xE8;gles de confidentialit&#xE9; strictes. Par ailleurs, un Fournisseur int&#xE9;ress&#xE9; par votre projet, doit &#xE0; nouveau accepter des r&#xE8;gles de confidentialit&#xE9; pour le rejoindre et obtenir les informations d&#xE9;taille&#xE9;s et vos informations professionnelles.<br> Extrait de nos Conditions G&#xE9;n&#xE9;rales de Vente Fournisseur:<br> &quot;Du fait de la sensibilit&#xE9; des informations objets des Demande de Services, chaque Fabricant maintiendra une stricte confidentialit&#xE9; sur la nature et le contenu de la Demande de Services d&apos;une part et sur la nature et le contenu de ses devis, contributions et &#xE9;l&#xE9;ments de r&#xE9;ponses d&apos;autre part.&quot;"
+        },
+        "nineteen": {
+          "question": "Est-ce que Packitoo est responsable en cas de défaut de production?",
+          "answer": "Packitoo est un outil num&#xE9;rique qui se fixe une obligation de moyens pour connecter efficacement les Clients et les Fournisseurs pour chaque projet d&apos;emballage personnalis&#xE9; enregistr&#xE9; sur la plateforme.<br> Bien que Packitoo mette &#xE0; disposition des outils performants et utiles pour &#xE9;viter toute erreur dans la production d&apos;emballages personnalis&#xE9;s, Packitoo ne peut &#xEA;tre tenu responsable d&apos;&#xE9;ventuels d&#xE9;fauts ou retards de fabrication. Cette responsabilit&#xE9; peut incomber aux Clients ou aux Fournisseurs selon les cas."
+        },
+        "twenty": {
+          "question": "Que faire en cas de litige?",
+          "answer": "Packitoo ne laisse tomber personne. Que vous soyez Client ou Fournisseur de packaging, en cas de litige n&apos;&#xE9;hsitez pas &#xE0; contacter notre service client par mail &#xE0; contact@packitoo.com ou bien par t&#xE9;l&#xE9;phone au +33 (0)5 33 09 13 94. Nous nous efforcerons de traiter et de r&#xE9;soudre cette situation le plus rapidement possible."
+        },
+        "twentyOne": {
+          "question": "Comment puis-je être sûr que mon brief a bien été déposé?",
+          "answer": "Lorsque vous validez votre brief, un espace projet est cr&#xE9;&#xE9;. Votre brief est en &quot;Validation&quot;, c&apos;est-&#xE0;-dire que nos experts packaging vont le relire pour lever toute interrogation que pourraient avoir des Fournisseurs en prenant connaissance de votre projet. Dans tous les cas, nos experts reviennent vers vous pour vous signifier le lancement de l&apos;appel d&apos;offres aupr&#xE8;s de notre communaut&#xE9; de fournisseurs, le plus rapidement possible."
+        },
+        "twentyTwo": {
+          "question": "J'ai terminé mon brief, y a t il une autre étape?",
+          "answer": "Une fois votre brief d&#xE9;pos&#xE9;, les meilleurs Fournisseurs rejoignent votre projet et soumettent leurs offres. L&apos;application Packitoo vous notifie alors par email &#xE0; chaque fois qu&apos;un Fournisseur soumet une cotation ou souhaite discuter avec vous. Vous pouvez avancer dans votre projet en toute s&#xE9;r&#xE9;nit&#xE9;; l&apos;application Packitoo revient vers vous quand n&#xE9;cessaire."
+        },
+        "twentyThree": {
+          "question": "Vous ne trouvez pas de réponse à votre question ?",
+          "answer": "Faites-le nous savoir en nous contactant par mail &#xE0; l&apos;adresse suivante : <a href=\"mailto:contact@packitoo.com\">contact@packitoo.com</a> ou au 05.33.09.13.94."
+        }
+      },
+      "supplier": {
+        "title": "F.A.Q Fournisseurs",
+        "more": "En savoir plus",
+        "one": {
+          "question": "Je suis un Fournisseur d'emballage et ne trouve pas d'informations me concernant. Comment cela se fait-il ?",
+          "answer": "Vous naviguez peut-&#xEA;tre sur les pages destin&#xE9;es aux Clients. Les informations concernant les Fournisseurs sont accessibles dans l&apos;Espace Fournisseur <a href=\"manufacturers-area-fr.html\">Espace Fournisseur</a>"
+        },
+        "two": {
+          "question": "Mes identifiants ne fonctionnent pas, que dois-je faire ?",
+          "answer": "Vous rencontrez un message d&apos;erreur &#xE0; la connexion &#xE0; votre espace ?<br> Avant tout, veuillez v&#xE9;rifier que vous avez correctement saisi votre &#xAB; email &#xBB; et/ou votre &#xAB; mot de passe &#xBB; et que les touches &#xAB; Majuscule/Minuscule &#xBB; soient correctement activ&#xE9;es.<br> Si cela ne fonctionne toujours pas, nous vous proposons de r&#xE9;initialiser vos identifiants en suivant les instructions suivantes :<br> - rendez-vous sur la page de connexion de votre espace (<a href=\"https://app.packitoo.com?locale=fr\">Espace Marque</a> / <a href=\"https://app.packitoo.com?locale=fr\">Espace Fabricant</a>)<br> - cliquez sur le lien &#xAB; mot de passe oubli&#xE9; &#xBB;<br> - saisissez votre email afin de recevoir les instructions pour le r&#xE9;initialiser.<br> Si le probl&#xE8;me persiste, merci de nous contacter par mail &#xE0; <a href=\"mailto:contact@packitoo.com\">contact@packitoo.com</a>"
+        },
+        "three": {
+          "question": "J'ai oublié mon mot de passe",
+          "answer": "En cas d&apos;oubli de votre mot de passe, vous pouvez le r&#xE9;initialiser tr&#xE8;s simplement :<br> - rendez-vous sur la page de connexion de votre espace (<a href=\"https://app.packitoo.com?locale=fr\">Espace Marque</a> / <a href=\"https://app.packitoo.com?locale=fr\">Espace Fabricant</a>)<br> - cliquez sur le lien &#xAB; mot de passe oubli&#xE9; &#xBB;<br> - saisissez votre email afin de recevoir les instructions pour le r&#xE9;initialiser."
+        },
+        "four": {
+          "question": "Quelles sont les règles de confidentialité sur Packitoo ? Comment suis-je sûr(e) que mes informations\npersonnelles ou celles de mes projets d'emballages ne sont pas diffusées à n'importe qui?",
+          "answer": "Les Fournisseurs doivent accepter des conditions g&#xE9;n&#xE9;rales de Vente en s&apos;inscrivant sur Packitoo; qui incluent des r&#xE8;gles de confidentialit&#xE9; strictes. Par ailleurs, un Fournisseur int&#xE9;ress&#xE9; par votre projet, doit &#xE0; nouveau accepter des r&#xE8;gles de confidentialit&#xE9; pour le rejoindre et obtenir les informations d&#xE9;taille&#xE9;s et vos informations professionnelles.<br> Extrait de nos Conditions G&#xE9;n&#xE9;rales de Vente Fournisseur:<br> &quot;Du fait de la sensibilit&#xE9; des informations objets des Demande de Services, chaque Fabricant maintiendra une stricte confidentialit&#xE9; sur la nature et le contenu de la Demande de Services d&apos;une part et sur la nature et le contenu de ses devis, contributions et &#xE9;l&#xE9;ments de r&#xE9;ponses d&apos;autre part.&quot;"
+        },
+        "five": {
+          "question": "Est-ce que Packitoo est responsable en cas de défaut de production?",
+          "answer": "Packitoo est un outil num&#xE9;rique qui se fixe une obligation de moyens pour connecter efficacement les Clients et les Fournisseurs pour chaque projet d&apos;emballage personnalis&#xE9; enregistr&#xE9; sur la plateforme.<br> Bien que Packitoo mette &#xE0; disposition des outils performants et utiles pour &#xE9;viter toute erreur dans la production d&apos;emballages personnalis&#xE9;s, Packitoo ne peut &#xEA;tre tenu responsable d&apos;&#xE9;ventuels d&#xE9;fauts ou retards de fabrication. Cette responsabilit&#xE9; peut incomber aux Clients ou aux Fournisseurs selon les cas."
+        },
+        "six": {
+          "question": "Que faire en cas de litige?",
+          "answer": "Packitoo ne laisse tomber personne. Que vous soyez Client ou Fournisseur de packaging, en cas de litige n&apos;&#xE9;hsitez pas &#xE0; contacter notre service client par mail &#xE0; contact@packitoo.com ou bien par t&#xE9;l&#xE9;phone au +33 (0)5 33 09 13 94. Nous nous efforcerons de traiter et de r&#xE9;soudre cette situation le plus rapidement possible."
+        },
+        "seven": {
+          "question": "A quoi servent les Inspirations de Packitoo?",
+          "answer": "Packitoo permet aux Fournisseurs de mettre en avant leurs productions et savoir-faire. Les Clients peuvent ainsi d&#xE9;couvrir des emballages personnalis&#xE9;s qui les inspirent, et qu&apos;ils souhaitent s&apos;approprier. A partir d&apos;une Inspiration, en quelques clics, un Client peut obtenir les d&#xE9;tails techniques, des estimations de prix et demander &#xE0; &#xEA;tre mis en relation directement avec le Fournisseur &#xE0; l&apos;origine de cette Inspiration packaging."
+        },
+        "eight": {
+          "question": "Je suis un Fournisseur, combien me coûte ce service ?",
+          "answer": "Pour rejoindre la communaut&#xE9; Packitoo, vous pouvez choisir entre 3 abonnements: D&#xE9;couverte (gratuit) / Pro (100&#x20AC;/mois) / Entreprise (250&#x20AC;/mois). Quel que soit l&apos;abonnement de votre choix, pour toute commande g&#xE9;n&#xE9;r&#xE9;e par l&apos;interm&#xE9;diation de Packitoo, une r&#xE9;trocession de 10% est demand&#xE9;e sur la facture finale, ainsi que sur les r&#xE9;assorts du produit pendant 4 ans.<br> Visitez l&apos;<a href=\"manufacturers-area-fr.html\">Espace Fabricant</a>."
+        },
+        "nine": {
+          "question": "Qui sont les utilisateurs de Packitoo ?",
+          "answer": "Packitoo consolide deux communaut&#xE9;s de personnes r&#xE9;solument orient&#xE9;es packaging :<br> - les Clients, de la startup au Grands groupes, qui cherchent &#xE0; optimiser leur temps dans la recherche et la r&#xE9;alisation de leurs emballages personnalis&#xE9;s, &#xE0; optimiser leur budget en d&#xE9;couvrant projet par projet les meilleurs fabricants &#xE0; m&#xEA;me de r&#xE9;pondre &#xE0; leurs demandes.<br> - les Fabricants d&apos;emballages, de l&#x2019;imprimeur local &#xE0; l&#x2019;industriel global, qui cherchent &#xE0; d&#xE9;couvrir de nouveaux clients ayant des projets d&#x2019;emballages personnalis&#xE9;s correspondant &#xE0; leur capacit&#xE9; industrielle et leur strat&#xE9;gie commerciale.<br>"
+        },
+        "ten": {
+          "question": "Combien de Fournisseurs sont référencés sur Packitoo?",
+          "answer": "Nous travaillons aujourd&apos;hui avec pr&#xE8;s de <strong>250 fournisseurs</strong> d&apos;emballages personnalis&#xE9;s."
+        },
+        "eleven": {
+          "question": "Qui sont les Clients de la communauté Packitoo?",
+          "answer": "Plus de <strong>250 entreprises fran&#xE7;aises</strong>, de la startup aux grands groupes, ont sollicit&#xE9; la communaut&#xE9; de fournisseurs de Packitoo depuis septembre 2017."
+        },
+        "twelve": {
+          "question": "Où sont-ils localisés les Fournisseurs de la communauté Packitoo ?",
+          "answer": "Les Fournisseurs membres de notre communaut&#xE9; sont issus du monde entier, essentiellement d&apos;Europe (France, Europe de l&apos;Ouest, Europe centrale, Europe de l&apos;Est) et d&apos;Asie (Chine, Inde, Vietnam&#x2026;)."
+        },
+        "thirteen": {
+          "question": "Puis-je entrer en contact directement avec un Client?",
+          "answer": "Tout au long d&apos;un projet, vous pouvez &#xE9;changer avec le Client via le chat interne au projet. Si vous souhaitez le contacter par t&#xE9;l&#xE9;phone par ex., vous pouvez bien s&#xFB;r le faire. Pour &#xE9;viter toute incompr&#xE9;hension et potentielle erreur, nous vous invitons cependant &#xE0; garder une trace &#xE9;crite de tous vos &#xE9;changes avec le Client dans Packitoo, soit via le chat, soit via vos cotations."
+        },
+        "fourteen": {
+          "question": "Je suis Fournisseur et je souhaite résilier mon abonnement.",
+          "answer": "Vous pouvez r&#xE9;silier votre abonnement &#xE0; tout moment en nous contactant par mail &#xE0; contact@packitoo.com ou au +33 (0)5 33 09 13 94.<br> <strong>A partir de cette date</strong>, vous ne ferez plus parti de notre communaut&#xE9; et ne pourrez plus acc&#xE9;der &#xE0; votre espace ni recevoir les demandes des Clients de la communaut&#xE9; Packitoo.<br> Tout mois entam&#xE9; est d&#xFB;. Nous vous remboursons l&apos;abonnement des mois non engag&#xE9;s en cas d&apos;abonnement factur&#xE9; trimestriellement.<br>"
+        },
+        "fifteen": {
+          "question": "Je suis Fournisseur; comment suis-je facturé par Packitoo?",
+          "answer": "Nous vous facturons les abonnements payants en d&#xE9;but de trimestre pour le trimestre entam&#xE9;.<br> Nous facturons les commissions sur les ventes une fois vos propres factures de vente &#xE9;mises aux Clients."
+        },
+        "sixteen": {
+          "question": "Suis-je clairement identifié sur une inspiration que je publie?",
+          "answer": "Les Utilisateurs, Clients comme Fournisseurs, qui visitent la Galerie d&apos;Inspirations ne peuvent savoir qui est le Fournisseur auteur d&apos;une inspiration. Un Client int&#xE9;ress&#xE9; par votre produit peut cependant demander &#xE0; vous rencontrer via l&apos;application."
+        },
+        "seventeen": {
+          "question": "Si le Client veut un devis sur mon inspiration, comment cela se passe t'il?",
+          "answer": "Lorsqu&apos;un Client est int&#xE9;ress&#xE9; par une de vos Inspirations, il peut adapter la configuration que vous avez pr&#xE9;-enregistr&#xE9;e en fonction de ses besoins puis lancer une demande de prix. Vous &#xEA;tes alors mis en relation directe avec ce Client."
+        },
+        "eighteen": {
+          "question": "Les autres Fournisseurs peuvent-ils voir mes Inspirations?",
+          "answer": "Les Fournisseurs peuvent acc&#xE9;der &#xE0; la Galerie d&apos;Inspirations. Cependant, ils ne peuvent acc&#xE9;der qu&apos;aux images; pas aux configurations techniques ni aux estimations de prix de Packitoo. Seuls les Clients ont ce privil&#xE8;ge.<br> Les Fournisseurs ayant choisi les formules d&apos;abonnement Pro et Entreprise peuvent r&#xE9;server certaines de leurs Inspirations aux Clients seulement. Ces Inspirations n&apos;apparaissent plus dans la Gallerie &quot;publique&quot;."
+        },
+        "nineteen": {
+          "question": "Comment faire si je ne veux pas afficher la marque de mon client sur le packaging de mon Inspiration?",
+          "answer": "Vous pouvez demander &#xE0; Packitoo de flouter la marque de votre Client, ou le faire vous-m&#xEA;me en amont. Autre option, vous pouvez recr&#xE9;er ce packaging avec d&apos;autres &#xE9;l&#xE9;ments graphiques pour assurer la confidentialit&#xE9; des informations de votre client."
+        },
+        "twenty": {
+          "question": "Quel est le montant moyen des commandes Clients par le biais de Packitoo?",
+          "answer": "La commande moyenne enregistr&#xE9;e est de 7000&#x20AC;. Cela correspond &#xE0; des petites et moyennes s&#xE9;ries de production."
+        },
+        "twentyOne": {
+          "question": "Vous ne trouvez pas de réponse à votre question ?",
+          "answer": "Faites-le nous savoir en nous contactant par mail &#xE0; l&apos;adresse suivante : <a href=\"mailto:contact@packitoo.com\">contact@packitoo.com</a> ou au 05.33.09.13.94."
+        },
+        "twentyTwo": {
+          "question": "Je ne comprends pas certains champs car ils ne sont pas traduits dans ma langue",
+          "answer": "Utilisez Google Traduction + nous appeler si besoin",
+          "gifHref": "/images/faq_fr.gif"
+        }
+      }
+    },
+    "packitooLab": {
+      "title": "Le Packitoo Lab'",
+      "text": "Vous avez une idée plus ou moins précise de votre projet ? Un budget approximatif ? Une faisabilité technique plus ou moins certaine ? Bref, vous ne vous sentez pas encore prêt pour déposer votre brief en ligne. Pas de panique, notre Packitoo Lab' est là pour vous accompagner.",
+      "achievements": "Quelques réalisation du Packitoo Lab'",
+      "services": {
+        "title": "Les prestations du Packitoo Lab'",
+        "btnTitle": "Contactez le Lab'",
+        "titleOne": "1. Benchmarking",
+        "infosOne": "Synthèse des forces et faiblesses des packagings existants et de la charte graphique, analyse des codes du marché et des packagings concurrents, mise en avant des éléments de différenciation pour améliorer l’efficacité et la visibilité de vos produits.",
+        "titleTwo": "2. Recherche de concepts packaging",
+        "infosTwo": "Recherche de concepts packaging pour optimiser vos coûts, et en adéquation avec vos objectifs commerciaux et vos valeurs.",
+        "titleThree": "3. Intentions graphiques, photomontages et visualisation 3D",
+        "infosThree": "Proposition d’intentions graphiques pour le facing du packaging, apposition du logo et éléments de texte, mise en situation, ...",
+        "titleFour": "4. Modèles et volumes",
+        "infosFour": "Réalisation d’une maquette en blanc et des volumes pour valider les dimensions et épaisseurs, préparer le plan de découpe imprimeur et valider les éléments techniques de votre packaging.",
+        "titleFive": "5. Charte graphique packaging",
+        "infosFive": "Analyse de la charte graphique existante (forces/faiblesses) et des best practices sectorielles. Pistes créatives multiples (textes, logo, typo, pictos, images, orientation des messages). Optimisation de la piste retenue pour définition de la nouvelle charte graphique.",
+        "titleSix": "6. Documents d’exécution technique",
+        "infosSix": "Exécution technique des documents (facing, dos, côtés) sur la base des plans de découpe et des cahiers des charges techniques de vos imprimeurs. Mise en place des textes et intégration des éléments techniques."
+      },
+      "benefits": {
+        "titleOne": "Sur-mesure",
+        "infosOne": "Votre projet vise à créer une emballage unique, sur-mesure, adapté et performant? Notre approche est similaire: adaptée à votre problématique et performante. Plus de 20 années de développement et design packaging nous ont permis de développer une méthodologie adaptée à chaque cas.",
+        "titleTwo": "Experts",
+        "infosTwo": "Le Packitoo Lab’ est consitué d’une équipe d’experts : ingénieurs, designers, process alimentaire et matériaux.",
+        "titleThree": "Confiance",
+        "infosThree": "Que nous internalisons ou externalisons tout ou partie de notre démarche d’accompagnement, vous savez qui intervient sur votre projet et pourquoi. Nous nous entourons des meilleurs et nous vous le disons !",
+        "titleFour": "Plus-value",
+        "infosFour": "Notre but commun est d’augmenter la valeur perçue de votre packaging pour le développement des ventes. Le tout en optimisant vos conditions d’achat."
+      },
+      "testimonials": {
+        "title": "Ils ont confié leur projet au Packitoo Lab'",
+        "authorJobOne": "Co-Fondatrice",
+        "testimonialOne": "Un grand merci à l’équipe de Packitoo qui a su mobiliser les bonnes ressources pour nous accompagner dans la refonte de nos packagings destinés à la GMS. Nous avions besoin d’une expertise trade marketing et grâce à Packitoo nous l’avons trouvée. L’implication et la pédagogie des consultants n’ont en outre rien gâché à leur professionnalisme.",
+        "testimonialTwo": "Un produit ne peut être qualifié de haut de gamme que si son emballage est à la hauteur de ses qualités intrinsèques. Packitoo nous a permis d’atteindre cet objectif dans la conception des coffrets et displays de notre gamme « créations ». Réactivité, ingéniosité, disponibilité, praticité."
+      }
+    },
+    "supplierArea": {
+      "title": "La vente de packaging, réinventée",
+      "subTitle": "Intégrez de nouveaux projets clients au bon moment, développez votre chiffre d’affaire efficacement. Ensemble, nous sommes Packitoo.",
+      "submitBtn": "Rejoignez-nous",
+      "testimonials": {
+        "title": "Ils parlent de nous",
+        "authorJobOne": "Responsable Export",
+        "testimonialOne": "Nous sommes un des premiers fournisseurs ayant commencé à travailler avec le site Packitoo. Nous avons pu connecter avec de nombreux clients en moins de 6 mois. Le site est très bien défini pour simplifier la demande des clients et ainsi faciliter le travail de recherche au fournisseur.  Packitoo dispose également d´une équipe de bons professionels allant du design à la conception finale. En tant qu´imprimeur en offset depuis 20 ans, nous vous conseillons de  vous inscrire sur le site."
+      },
+      "process": {
+        "title": "Le Process",
+        "btnTitle": "Rejoindre Packitoo",
+        "processOneTitle": "1. Je m'inscris",
+        "processOneInfos": "Choisissez la formule adaptée à votre besoin, établissez votre profil, postez des inspirations et rencontrez les Clients !",
+        "processTwoTitle": "2. Je réponds aux appels d'offres qui m'intéressent",
+        "processTwoInfos": "Recevez les appels d’offre qui vous correspondent, répondez-y à votre convenance.",
+        "processThreeTitle": "3. Je gagne de nouveaux marchés",
+        "processThreeInfos": "Participez et gagnez de nouveaux marchés, à moindres coûts, à moindres efforts."
+      },
+      "plan": {
+        "title": "Choisissez la formule qui vous correspond et démarrez maintenant",
+        "btn": "Choisir cette formule",
+        "companyTitle": "Profil entreprise :",
+        "tenderTitle": "Accès aux appels d’offres :",
+        "performanceTitle": "Analyse de votre performance :",
+        "oneTitle": "Découverte",
+        "onePriceText": "Abonnement <strong>GRATUIT</strong>",
+        "oneCompanyText": "Présentation entreprise en 300 caractères en une langue<br />Mise en avant de 5 Inspirations sur la Galerie <br />Inspirations sur la Galerie <strong>publique</strong> uniquement",
+        "oneTenderText": "Accès limité<br />Une participation aux appels d’offres par mois",
+        "twoTitle": "Pro",
+        "twoPriceText": "100€ HT/mois<br />Facturation semestrielle<br /><strong>Économisez 20%</strong> avec l’abonnement annuel",
+        "twoCompanyText": "Présentation entreprise en 300 caractères En <strong>deux</strong> langues<br />Mise en avant de <strong>20 produits</strong> dans la  Galerie<br />Possibilité de mettre certaines Inspirations en vue <strong>Client seulement</strong>",
+        "twoTenderText": "Accès complet<br />Participation illimitée aux appels d’offres",
+        "twoPerformanceText": "Accès complet<br />Deux fois par an",
+        "threeTitle": "Entreprise",
+        "threePriceText": "250€HT/mois<br />Facturation semestrielle<br /> <strong>Économisez 20%</strong> avec l’abonnement annuel",
+        "threeCompanyText": "Présentation entreprise en 300 caractères En <strong>deux</strong> langues<br/>Mise en avant <strong>illimitée</strong> de vos Inspirations dans la  Galerie<br/>Possibilité de mettre certaines Inspirations en vue <strong>Client seulement</strong>",
+        "threeTenderText": "Accès complet<br />Participation illimitée aux appels d’offres<br/><strong>Notifications prioritaires</strong>",
+        "threePerformanceText": "Accès complet<br/>Quatre fois par an<br/>Suivi personnalisé par un Expert Packitoo"
+      }
+    }
+  },
+  "modalInfos": {
+    "infos": "Vous avez des questions ? Vous pouvez trouver vos réponses dans notre FAQ",
+    "goToFaq": "Aller à notre FAQ",
+    "moreInfos": "Pour tout autres questions merci de nous contacter",
+    "helpOnline": "Chat en ligne avec notre support"
+  },
+  "home": {
+    "unauthorized": "Courriel ou mot de passe incorrect",
+    "firstTime": "Première fois ?",
+    "brandSignUp": "Inscription Client",
+    "sellerSignUp": "Inscription Fournisseur",
+    "passwordForget": "Mot de passe oublié",
+    "passwordForgetAction": "Envoyez moi des instructions pour réinitialiser mon mot de passe",
+    "passwordForgetSuccess": "Vous allez recevoir sous quelques minutes un courriel vous indiquant comment réinitialiser votre mot de passe",
+    "errorEdge": "Votre navigateur web (Microsoft Edge) supporte mal certaines fonctionnalités du site. <br />Merci d'utiliser un autre navigateur web (Google Chrome ou Firefox)."
+  },
+  "picturePreview": {
+    "confirm": "Êtes vous sûr de vouloir supprimer cette photo ? (cet action est irréversible)",
+    "accept": "Supprimer",
+    "refuse": "Annuler"
+  },
+  "user": {
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "password_confirmation": "Confirmation mot de passe",
+    "firstname": "Prénom",
+    "lastname": "Nom",
+    "telephone": "Téléphone",
+    "job": "Poste",
+    "company": "Société",
+    "locale": "Langue parlée",
+    "errors": {
+      "email": "L'email est obligatoire",
+      "password": "Le mot de passe est obligatoire",
+      "passwordConfirmation": "La confirmation du mot de passe est obligatoire",
+      "firstname": "Le prénom est obligatoire",
+      "lastname": "Le nom est obligatoire",
+      "telephone": "Le téléphone est obligatoire",
+      "job": "Le poste est obligatoire",
+      "company": "La société est obligatoire",
+      "locale": "La langue parlée est obligatoire",
+      "passwordsNotMatches": "Les mots de passes de correspondent pas",
+      "passwordTooShort": "Le mot de passe doit faire au minimum 6 caractères",
+      "emailTaken": "Cet email est déjà utilisé",
+      "signUp": "L'inscription a échouée",
+      "emailNotFound": "Aucun compte ne correspond à cet email"
+    }
+  },
+  "production": {
+    "delete": {
+      "confirm": "Êtes vous sûr de vouloir supprimer cette inspiration ? (cet action est irréversible)",
+      "accept": "Supprimer",
+      "refuse": "Annuler",
+      "fail": "La suppression de l'inspiration a échouée, veuillez réessayer plus tard merci",
+      "success": "Production supprimée avec succès !"
+    },
+    "show": {
+      "noEstimation": "Oups, il nous manque encore des données pour vous fournir une estimation de prix sur ce produit.",
+      "meetSupplier": "Personnalisez et obtenez un devis",
+      "ourEstimation": "Notre estimation",
+      "unloggedInfosText": "Connectez-vous pour accéder aux détails techniques de cet emballage, une estimation immédiate du prix et contacter rapidement le fournisseur quand vous êtes prêt(e).",
+      "unloggedTitle": "Combien coûte ce packaging? Connectez-vous!",
+      "unloggedFirstStep": "Connectez-vous",
+      "unloggedSecondStep": "Personnalisez <br />cette inspiration",
+      "unloggedThirdStep": "Obtenez <br />le devis final",
+      "unloggedSignIn": "Déjà un compte ? se connecter",
+      "unloggedSignUp": "S'inscrire",
+      "estimationTooltip": "Modifiez la quantité pour obtenir une nouvelle estimation du prix",
+      "sellerInfos": "Ceci est un espace réservé aux Clients, veuillez cliquer sur le bouton ci-dessous pour accéder à votre interface",
+      "goToInterface": "Aller à votre interface",
+      "details": {
+        "product": "Précisions techniques sur le produit",
+        "decorations": "Précisions techniques sur les décors",
+        "buyConditions": "Précisions sur les conditions d'achats"
+      }
+    },
+    "publicList": {
+      "title": "Inspirez-vous !",
+      "infos": " Sur la galerie d’inspirations, trouvez de nombreuses idées d’emballages personnalisés. Packitoo estime le prix de votre projet, pré-remplit votre brief et vous trouve le meilleur fournisseur.  Vous n’avez plus qu’à apporter votre touche finale, votre projet est entre de bonnes mains.",
+      "box": {
+        "title": "Vous n'avez pas trouvé l'emballage parfait ?",
+        "action": "Configurez votre packaging"
+      }
+    },
+    "list": "Liste des inspirations",
+    "industryProduction": "Industrie / Production",
+    "quantityPrice": "Quantité / Prix",
+    "materialMatter": "Matériau / Matière",
+    "pickPresentation": "Choisir une photo de présentation",
+    "pickPictures": "Choisir des photos additionnelles",
+    "resetForm": "Réinitialiser",
+    "create": "Creation d'une inspiration",
+    "save": "Sauvegarder l'inspiration",
+    "saveAsDraft": "Sauvegarder en brouillon",
+    "saveForValidate": "Soumettre à validation",
+    "customize": "Personnaliser",
+    "edit": "Éditer",
+    "editProduction": "Édition d'une inspiration",
+    "validate": "Valider l'inspiration",
+    "moreDetails": "Plus de détails",
+    "otherComponents": "Autres Composants",
+    "configurePackaging": "Personnaliser votre packaging",
+    "findSellerAccount": "Fabricant",
+    "validated": "Production validée avec succès !",
+    "attributes": {
+      "title": "Titre",
+      "description": "Description",
+      "presentation": "Présentation",
+      "sellerAccount": "Fabricant",
+      "matter": "Matière",
+      "actions": "Actions",
+      "locale": "Langue de création de l'inspiration",
+      "tags": "Tags",
+      "dimensions": "Dimensions (extérieur)",
+      "dimensionConvention": "Convention",
+      "dimensionUnit": "Unité",
+      "material": "Matériau",
+      "quantity": "Quantité",
+      "minimumOrderQuantity": "Minimum de commande pour ce produit",
+      "currency": "Devise",
+      "price": "Prix unitaire",
+      "priceWithoutDeliveryFees": "Prix unitaire (hors livraison)",
+      "industry": "Industrie",
+      "manufactureCountries": "Pays de fabrication",
+      "achievedAt": "Date de réalisation (MM/AAAA)",
+      "productionTime": "Temps de production (en nombre de semaines)",
+      "epaisMat": "Épaisseur matériau",
+      "productComment": "Précisions sur le produit",
+      "product": "Produit",
+      "productCategory": "Catégorie de produit",
+      "productFamily": "Famille de produit",
+      "printed": "Imprimé",
+      "unPrinted": "Non Imprimé",
+      "print": "Impression",
+      "printComment": "Commentaire sur l'impression et les décors",
+      "toolingFees": "Frais d'outillage",
+      "optionsFees": "Frais d'options spécifiques",
+      "shootingFees": "Frais de photogravures / clichés",
+      "feesComment": "Commentaire sur les frais",
+      "decoComment": "Précisions sur les finitions",
+      "hotStamping": "Dorure / Marquage à chaud",
+      "hotStampingColor": "Couleur dorure",
+      "hotStampingRef": "Référence dorure",
+      "hotStampingStyle": "Effet dorure",
+      "hotStampingPosition": "Position dorure",
+      "hotStampingConvention": "Surface de dorure convention",
+      "hotStampingDimension": "Surface de dorure",
+      "hotStampingUnit": "Surface de dorure unité",
+      "window": "Fenêtre",
+      "windowComment": "Commentaire fenêtre",
+      "cord": "Cordelette",
+      "cordComment": "Commentaire cordelette",
+      "handle": "Poignée",
+      "handleComment": "Commentaire poignée",
+      "tray": "Calage",
+      "trayComment": "Commentaire calage",
+      "ribbon": "Ruban de décoration",
+      "ribbonComment": "Commentaire ruban de décoration",
+      "other": "Autres",
+      "none": "Aucun",
+      "otherComment": "Commentaire autres",
+      "conventionComment": "Commentaire sur la convention",
+      "materialComment": "Précisions sur le matériau",
+      "status": {
+        "title": "Status",
+        "draft": "Brouillon",
+        "inValidation": "En validation par Packitoo",
+        "validated": "Validée par Packitoo"
+      },
+      "visibility": {
+        "title": "Visibilité de l'inspiration sur la galerie",
+        "allUsers": "Publique",
+        "brandOnly": "Client uniquement"
+      },
+      "priceConvention": {
+        "title": "Convention de prix",
+        "unit": "Par pièce",
+        "kilo": "Au mille"
+      },
+      "printedSurface": {
+        "title": "Surface imprimée",
+        "int": "Intérieur",
+        "int": "Intérieur",
+        "ext": "Extérieur",
+        "intext": "Intérieur & extérieur"
+      },
+      "incoterm": {
+        "title": "Incoterm",
+        "ddpBrand": "DDP - Delivered Duty Paid (livré chez vous, taxes payées)",
+        "exwBrand": "EXW - ExWorks (départ usine fabricant)",
+        "fobBrand": "FOB - Free On Board (départ port pays de fabrication)",
+        "cifBrand": "CIF - Cost, Insurance, Freight (départ port pays de livraison)",
+        "ddp": "DDP",
+        "exw": "EXW",
+        "fob": "FOB",
+        "cif": "CIF"
+      },
+      "finish": {
+        "title": "Finitions",
+        "varnishMat": "Vernis mat",
+        "varnishShiny": "Vernis brillant",
+        "laminationMat": "Pelliculage mat",
+        "laminationShiny": "Pelliculage brillant",
+        "laminationSofttouch": "Soft touch",
+        "noFinish": "Aucune"
+      },
+      "otherFinish": {
+        "title": "Autres Finitions",
+        "embossing": "Embossage",
+        "debossing": "Débossage",
+        "selectiveVarnish": "Vernis selectif",
+        "reliefVarnish": "Vernis gonflant",
+        "otherFinish": "Autre"
+      },
+      "decoColors": {
+        "title": "Nombre de couleurs par décor",
+        "one": 1,
+        "two": 2,
+        "three": 3,
+        "four": 4,
+        "five": 5,
+        "six": 6,
+        "seven": 7,
+        "eight_more": "8+"
+      }
+    },
+    "errors": {
+      "title": "Le titre est obligatoire",
+      "presentation": "La photo de présentation est obligatoire",
+      "localeId": "La langue est obligatoire",
+      "visibility": "La visibilité est obligatoire",
+      "tagIds": "Au moins un tag est requis",
+      "productFamilyId": "La famille de produit est obligatoire",
+      "productCategoryId": "La catégorie de produit est obligatoire",
+      "productId": "Le produit est obligatoire",
+      "dimensionConventionId": "La convention est obligatoire",
+      "dimensions": "La dimension est obligatoire",
+      "dimensionUnitId": "L'unité est obligatoire",
+      "epaisMat": "L'épaisseur matériau est obligatoire",
+      "materialId": "Le matériau est obligatoire",
+      "matterId": "La matière est obligatoire",
+      "quantity": "La quantité est obligatoire",
+      "price": "Le prix unitaire est obligatoire",
+      "currency": "La devise est obligatoire",
+      "toolingFees": "Les frais d'outillage sont obligatoire",
+      "incoterm": "L'incoterm est obligatoire",
+      "manufactureCountryIds": "Au moins un pays de fabrication est requis",
+      "achievedAt": "La date de réalisation est obligatoire",
+      "achievedAtFormat": "La date de réalisation doit être au format MM/AAAA",
+      "printed": "L'impression est obligatoire",
+      "printedSurface": "La surface d'impression est obligatoire",
+      "decoColors": "Le nombre de couleurs par décor est obligatoire",
+      "hotStamping": "La réponse à la présence de marquage à chaud est obligatoire",
+      "finish": "Le champ autres finitions est obligatoire",
+      "otherComponents": "Autres Composants est obligatoire",
+      "noneCheckWithOtherComponents": "Aucun autres composants est coché en même temps qu'un autre composant",
+      "submit": "Un champ du formulaire est erroné ou manquant",
+      "noResultsFilter": "Oups! Aucun résultat trouvé avec vos filtres. <br /> Vous pouvez modifier ou supprimer certains filtres pour découvrir plus d'inspirations ciblées ou naviguer à travers toutes nos inspirations directement sur cette page.",
+      "moreDetailsUnlogged": "Pour avoir accès aux détails de cette inspiration, merci de s'identifier."
+    },
+    "tooltip": {
+      "title": "Comment intituleriez-vous ce produit ?",
+      "description": "Dites-en plus sur ce produit: en quoi est-il digne d'intérêt ? Que voulez-vous montrer aux Clients à travers ce produit ? Est-ce un modèle déposé qui vous appartient ?",
+      "locale": "Aidez-nous à reconnaître la langue que vous utilisez dans les champs de texte (type champs de commentaires)",
+      "tags": "Les tags que vous apposez seront les mots-clés que chercheront les Clients pour identifier votre produit. Choisissez les soigneusement. Plus votre produit a de tags, mieux il sera référencé dans notre Galerie d'Inspirations.",
+      "productComment": "Si vous n'avez pas trouvé le produit dans nos listes, ou si vous souhaitez apporter des précisions sur la nature de ce produit, commentez ici.",
+      "dimensionConvention": "Si vous n'avez pas trouvé la convention de mesure, renseignez le dans le champ de commentaire ci-dessous",
+      "conventionComment": "Nous n'avons pas encore recensé toutes les conventions de mesure. Montrez-nous comment sont prises les mesures de ce produit.",
+      "epaisMat": "Merci de bien préciser l'unité de l'épaisseur (g/m², mm, µ…).",
+      "materialComment": "Si vous n'avez pas trouvé la matière dans les champs précédents, décrivez-la ici. Si vous souhaitez apporter plus de précisions (marque du matériau, détails techniques, avantages), vous pouvez le faire ici également.",
+      "hotStampingStyle": "La dorure peut être brillante ou mat, spécifiez-le ici.",
+      "hotStampingRef": "Si vous connaissez la référence de ruban (ex: Luxor XXX), vous pouvez la renseigner ici. Sinon, laissez ce champ vide.",
+      "hotStampingPosition": "La position peut être: sur le facing seulement, sur la totalité de l'emballage, sur certaines faces seulement. Spécifiez le ici.",
+      "quantity": "Inscrivez ici la quantité à laquelle vous avez réalisé ce produit en fonction du prix que vous renseignerez dans le champ suivant.",
+      "price": "Notre algorithme fera des estimations à partir de cette référence, soyez précis pour obtenir des commandes clients au bon prix.",
+      "shootingFees": "Peut-être nul si vous n'en avez pas facturé sur cette production.",
+      "optionsFees": "Vous pouvez utiliser cette case pour distinguer le surcoût d'une ou plusieurs options spécifiques pour mieux éduquer les Clients.",
+      "feesComment": "Si vous souhaitez préciser certains éléments des prix, n'hésitez pas à le faire ici. Vous pouvez également dire ici si l'outil de découpe est existant désormais et gratuit pour des commandes à partir de ce format.",
+      "industry": "Pour quelle industrie ce produit a été proposé ?",
+      "decoComment": "Si vous avez des commentaires ou précisions sur les effets et finitions apportés, c'est ici. Ex: vernis acrylique ou UV, effets superposés ou innovants…",
+      "printComment": "Précisez ici la technique d'impression utilisée, si l'impression est en ton direct ou en CMJN, et toute autre information utile au Client pour le séduire.",
+      "manufactureCountries": "Si ce produit a été fabriqué dans un produit différent que celui listé dans votre profil, modifiez cette information.",
+      "visibility": "Les inspirations \"Publiques\" sont les premières que les clients voient. Vous avez plus de chances d'obtenir des commandes à partir d'inspirations publiques. Si vous considérez que votre produit est une véritable innovation et voulez qu'il soit réservé aux \"Clients seulement\", cliquez sur le bouton correspondant.",
+      "allPrices": "Attention, pensez à intégrer les 10% de commission de Packitoo dans vos prix (prix pièce, prix d'outillage, autres prix)"
+    }
+  },
+  "brief": {
+    "families": {
+      "boxes": {
+        "title": "Boitages & coffrets",
+        "pliant": {
+          "title": "Les pliants",
+          "etui": "Etui pliant standard",
+          "fourreaux": "Fourreaux",
+          "pochette": "Pochettes (étui avec 2 soufflets et 1 rabat)",
+          "coussin": "Etuis coussins, berlingots, pillow, etc.",
+          "auto": "Base automontable seule",
+          "base": "Boite automontable base & couvercle",
+          "ballotin": "Ballotin",
+          "other": "Autres pliants"
+        },
+        "hard": {
+          "title": "Les rigides ou Boites montées",
+          "hard": "Base rigide",
+          "bell": "Coffret cloche (base et couvercle)",
+          "gorge": "Coffret Gorge (en 3 parties)",
+          "magnet": "Boite aimantée",
+          "caisse": "Caisse",
+          "other": "Autres rigides"
+        },
+        "round": {
+          "title": "Les ronds",
+          "tube": "Boite ronde, tube",
+          "ovale": "Boite ovale",
+          "other": "Autres ronds"
+        }
+      },
+      "stickers": {
+        "title": "Etiquettes",
+        "sticky": {
+          "title": "Etiquettes adhésives",
+          "plaque": "Plaques d'étiquettes",
+          "roll": "Rouleaux d'étiquettes"
+        },
+        "notsticky": {
+          "title": "Etiquettes non adhésives",
+          "other": "Autres étiquettes"
+        }
+      },
+      "bags": {
+        "title": "Sacs & sachets",
+        "shopping": {
+          "title": "Sacs shopping",
+          "luxe": "Sacs shopping luxe",
+          "std": "Sacs shopping"
+        },
+        "bag": {
+          "title": "Sacherie",
+          "sachet": "Sachets",
+          "other": "Autres"
+        }
+      },
+      "luggages": {
+        "title": "Bagagerie, gifts & premium",
+        "vanity": {
+          "title": "Vanity, trousses et pochons",
+          "vanity": "Vanity",
+          "trousse": "Trousses",
+          "pochon": "Pochons"
+        },
+        "bag": {
+          "title": "Sacs, cabas et bagages",
+          "bag": "Sacs bagages",
+          "cabas": "Cabas",
+          "tote": "Tote bags"
+        },
+        "jewel": {
+          "title": "Bijoux",
+          "necklace": "Colliers",
+          "wrist": "Bracelets",
+          "ring": "Bagues",
+          "hair": "Accessoires cheveux"
+        },
+        "kitchen": {
+          "title": "Accessoires Cuisine",
+          "mug": "Mugs",
+          "napkins": "Torchons",
+          "apron": "Tabliers",
+          "stuff": "Ustensiles de cuisine"
+        },
+        "bathroom": {
+          "title": "Accessoires Salle de Bain",
+          "bob": "Eponge",
+          "cindy": "Miroir",
+          "patrick": "Pince à épiler",
+          "handy": "Accessoires manucure"
+        },
+        "fashion": {
+          "title": "Accessoires Mode/Beauté",
+          "scarf": "Foulards",
+          "tshir": "Tee-Shirts",
+          "sunglasses": "Lunettes de soleil"
+        },
+        "kids": {
+          "title": "Accessoires Enfants",
+          "teddys": "Peluche",
+          "toys": "Jouet"
+        },
+        "geek": {
+          "title": "Accessoires Electroniques",
+          "power": "Chargeur externe, Power Bank",
+          "usb": "Clé USB"
+        }
+      },
+      "calage": {
+        "title": "Solutions de calage",
+        "calage": {
+          "title": "Calages",
+          "decoupe": "Découpes",
+          "paper": "Papiers de soie/frisure/paillon",
+          "thermo": "Thermoformage",
+          "other": "Autre calages"
+        },
+        "blister": {
+          "title": "Blisters",
+          "blister": "Blisters"
+        },
+        "barquette": {
+          "title": "Barquettes de présentation",
+          "barquette": "Barquettes de présentation"
+        }
+      },
+      "plv": {
+        "title": "PLV, displays",
+        "plv": {
+          "title": "PLV",
+          "plv": "PLV"
+        },
+        "display": {
+          "title": "Displays et présentoirs",
+          "display": "Displays et présentoirs"
+        }
+      },
+      "other": {
+        "title": "Autres",
+        "other": {
+          "title": "Autres",
+          "other": "Autres"
+        }
+      }
+    },
+    "techpack": {
+      "materials": {
+        "material": {
+          "plastic": {
+            "title": "PLASTIQUES",
+            "pvc": "PVC",
+            "pet": "PET",
+            "pp": "PP",
+            "eva": "EVA",
+            "ps": "PS",
+            "psf": "PS Floqué",
+            "pmma": "PMMA",
+            "acrylic": "Acrylique",
+            "abs": "ABS",
+            "other": "Autres plastiques"
+          },
+          "cardboard": {
+            "title": "CARTON",
+            "whitefb": "Folding Blanc Recto Verso",
+            "whitegrey": "Folding Recto Blanc Verso gris",
+            "kraft": "Kraft recto Verso",
+            "foldingkraft": "Folding Blanc Recto Kraft",
+            "polygold": "Polyester or ou argent R/V",
+            "polywhite": "Recto blanc Verso Polyester",
+            "cardboard": "Carton de création",
+            "nano": "Nanocannelure",
+            "micro": "Microcannelure",
+            "other": "Autres cartons"
+          },
+          "paper": {
+            "title": "PAPIER",
+            "flat": "Papier couché blanc",
+            "kraft": "Papier kraft",
+            "creative": "Papier de création",
+            "other": "Autres papiers"
+          },
+          "metal": {
+            "title": "METAL",
+            "fe": "Fer blanc",
+            "al": "Aluminium",
+            "zamac": "Zamac",
+            "other": "Autres métaux"
+          },
+          "wood": {
+            "title": "BOIS",
+            "mdf": "MDF",
+            "exotic": "Bois exotique",
+            "other": "Autres bois"
+          },
+          "textile": {
+            "title": "TEXTILES",
+            "coton": "Coton",
+            "notbraid": "Non tissé",
+            "pu": "PU",
+            "leather": "Cuir",
+            "other": "Autres textiles (néoprène, suédine, organza, satin…)"
+          },
+          "ceramic": {
+            "title": "CERAMIQUE",
+            "ceramic": "Céramique"
+          },
+          "foam": {
+            "title": "MOUSSE",
+            "peva": "Polyéthylène - PEVA",
+            "other": "Autres mousses"
+          },
+          "dontknow": {
+            "title": "Je ne sais pas",
+            "dontknow": "Je ne sais pas"
+          }
+        }
+      }
+    }
+  },
+  "country": {
+    "AC": "Île de l’Ascension",
+    "AD": "Andorre",
+    "AE": "Émirats arabes unis",
+    "AF": "Afghanistan",
+    "AG": "Antigua-et-Barbuda",
+    "AI": "Anguilla",
+    "AL": "Albanie",
+    "AM": "Arménie",
+    "AN": "Antilles néerlandaises",
+    "AO": "Angola",
+    "AQ": "Antarctique",
+    "AR": "Argentine",
+    "AS": "Samoa américaines",
+    "AT": "Autriche",
+    "AU": "Australie",
+    "AW": "Aruba",
+    "AX": "Îles Åland",
+    "AZ": "Azerbaïdjan",
+    "BA": "Bosnie-Herzégovine",
+    "BB": "Barbade",
+    "BD": "Bangladesh",
+    "BE": "Belgique",
+    "BF": "Burkina Faso",
+    "BG": "Bulgarie",
+    "BH": "Bahreïn",
+    "BI": "Burundi",
+    "BJ": "Bénin",
+    "BL": "Saint-Barthélemy",
+    "BM": "Bermudes",
+    "BN": "Brunéi Darussalam",
+    "BO": "Bolivie",
+    "BQ": "Pays-Bas caribéens",
+    "BR": "Brésil",
+    "BS": "Bahamas",
+    "BT": "Bhoutan",
+    "BV": "Île Bouvet",
+    "BW": "Botswana",
+    "BY": "Biélorussie",
+    "BZ": "Belize",
+    "CA": "Canada",
+    "CC": "Îles Cocos",
+    "CD": "Congo-Kinshasa",
+    "CF": "République centrafricaine",
+    "CG": "Congo-Brazzaville",
+    "CH": "Suisse",
+    "CI": "Côte d’Ivoire",
+    "CK": "Îles Cook",
+    "CL": "Chili",
+    "CM": "Cameroun",
+    "CN": "Chine",
+    "CO": "Colombie",
+    "CP": "Île Clipperton",
+    "CR": "Costa Rica",
+    "CU": "Cuba",
+    "CV": "Cap-Vert",
+    "CW": "Curaçao",
+    "CX": "Île Christmas",
+    "CY": "Chypre",
+    "CZ": "République tchèque",
+    "DE": "Allemagne",
+    "DG": "Diego Garcia",
+    "DJ": "Djibouti",
+    "DK": "Danemark",
+    "DM": "Dominique",
+    "DO": "République dominicaine",
+    "DZ": "Algérie",
+    "EA": "Ceuta et Melilla",
+    "EC": "Équateur",
+    "EE": "Estonie",
+    "EG": "Égypte",
+    "EH": "Sahara occidental",
+    "ER": "Érythrée",
+    "ES": "Espagne",
+    "ET": "Éthiopie",
+    "EU": "Union européenne",
+    "FI": "Finlande",
+    "FJ": "Fidji",
+    "FK": "Îles Malouines",
+    "FM": "États fédérés de Micronésie",
+    "FO": "Îles Féroé",
+    "FR": "France",
+    "GA": "Gabon",
+    "GB": "Royaume-Uni",
+    "GD": "Grenade",
+    "GE": "Géorgie",
+    "GF": "Guyane française",
+    "GG": "Guernesey",
+    "GH": "Ghana",
+    "GI": "Gibraltar",
+    "GL": "Groenland",
+    "GM": "Gambie",
+    "GN": "Guinée",
+    "GP": "Guadeloupe",
+    "GQ": "Guinée équatoriale",
+    "GR": "Grèce",
+    "GS": "Îles Géorgie du Sud et Sandwich du Sud",
+    "GT": "Guatemala",
+    "GU": "Guam",
+    "GW": "Guinée-Bissau",
+    "GY": "Guyana",
+    "HK": "R.A.S. chinoise de Hong Kong",
+    "HM": "Îles Heard et McDonald",
+    "HN": "Honduras",
+    "HR": "Croatie",
+    "HT": "Haïti",
+    "HU": "Hongrie",
+    "IC": "Îles Canaries",
+    "ID": "Indonésie",
+    "IE": "Irlande",
+    "IL": "Israël",
+    "IM": "Île de Man",
+    "IN": "Inde",
+    "IO": "Territoire britannique de l’océan Indien",
+    "IQ": "Irak",
+    "IR": "Iran",
+    "IS": "Islande",
+    "IT": "Italie",
+    "JE": "Jersey",
+    "JM": "Jamaïque",
+    "JO": "Jordanie",
+    "JP": "Japon",
+    "KE": "Kenya",
+    "KG": "Kirghizistan",
+    "KH": "Cambodge",
+    "KI": "Kiribati",
+    "KM": "Comores",
+    "KN": "Saint-Christophe-et-Niévès",
+    "KP": "Corée du Nord",
+    "KR": "Corée du Sud",
+    "KW": "Koweït",
+    "KY": "Îles Caïmans",
+    "KZ": "Kazakhstan",
+    "LA": "Laos",
+    "LB": "Liban",
+    "LC": "Sainte-Lucie",
+    "LI": "Liechtenstein",
+    "LK": "Sri Lanka",
+    "LR": "Libéria",
+    "LS": "Lesotho",
+    "LT": "Lituanie",
+    "LU": "Luxembourg",
+    "LV": "Lettonie",
+    "LY": "Libye",
+    "MA": "Maroc",
+    "MC": "Monaco",
+    "MD": "Moldavie",
+    "ME": "Monténégro",
+    "MF": "Saint-Martin (partie française)",
+    "MG": "Madagascar",
+    "MH": "Îles Marshall",
+    "MK": "Macédoine",
+    "ML": "Mali",
+    "MM": "Myanmar",
+    "MN": "Mongolie",
+    "MO": "R.A.S. chinoise de Macao",
+    "MP": "Îles Mariannes du Nord",
+    "MQ": "Martinique",
+    "MR": "Mauritanie",
+    "MS": "Montserrat",
+    "MT": "Malte",
+    "MU": "Maurice",
+    "MV": "Maldives",
+    "MW": "Malawi",
+    "MX": "Mexique",
+    "MY": "Malaisie",
+    "MZ": "Mozambique",
+    "NA": "Namibie",
+    "NC": "Nouvelle-Calédonie",
+    "NE": "Niger",
+    "NF": "Île Norfolk",
+    "NG": "Nigéria",
+    "NI": "Nicaragua",
+    "NL": "Pays-Bas",
+    "NO": "Norvège",
+    "NP": "Népal",
+    "NR": "Nauru",
+    "NU": "Niue",
+    "NZ": "Nouvelle-Zélande",
+    "OM": "Oman",
+    "PA": "Panama",
+    "PE": "Pérou",
+    "PF": "Polynésie française",
+    "PG": "Papouasie-Nouvelle-Guinée",
+    "PH": "Philippines",
+    "PK": "Pakistan",
+    "PL": "Pologne",
+    "PM": "Saint-Pierre-et-Miquelon",
+    "PN": "Pitcairn",
+    "PR": "Porto Rico",
+    "PS": "Territoires palestiniens",
+    "PT": "Portugal",
+    "PW": "Palaos",
+    "PY": "Paraguay",
+    "QA": "Qatar",
+    "QO": "régions éloignées de l’Océanie",
+    "RE": "La Réunion",
+    "RO": "Roumanie",
+    "RS": "Serbie",
+    "RU": "Russie",
+    "RW": "Rwanda",
+    "SA": "Arabie saoudite",
+    "SB": "Îles Salomon",
+    "SC": "Seychelles",
+    "SD": "Soudan",
+    "SE": "Suède",
+    "SG": "Singapour",
+    "SH": "Sainte-Hélène",
+    "SI": "Slovénie",
+    "SJ": "Svalbard et Jan Mayen",
+    "SK": "Slovaquie",
+    "SL": "Sierra Leone",
+    "SM": "Saint-Marin",
+    "SN": "Sénégal",
+    "SO": "Somalie",
+    "SR": "Suriname",
+    "SS": "Soudan du Sud",
+    "ST": "Sao Tomé-et-Principe",
+    "SV": "El Salvador",
+    "SX": "Saint-Martin (partie néerlandaise)",
+    "SY": "Syrie",
+    "SZ": "Swaziland",
+    "TA": "Tristan da Cunha",
+    "TC": "Îles Turques-et-Caïques",
+    "TD": "Tchad",
+    "TF": "Terres australes françaises",
+    "TG": "Togo",
+    "TH": "Thaïlande",
+    "TJ": "Tadjikistan",
+    "TK": "Tokelau",
+    "TL": "Timor oriental",
+    "TM": "Turkménistan",
+    "TN": "Tunisie",
+    "TO": "Tonga",
+    "TR": "Turquie",
+    "TT": "Trinité-et-Tobago",
+    "TV": "Tuvalu",
+    "TW": "Taïwan",
+    "TZ": "Tanzanie",
+    "UA": "Ukraine",
+    "UG": "Ouganda",
+    "UM": "Îles mineures éloignées des États-Unis",
+    "US": "États-Unis",
+    "UY": "Uruguay",
+    "UZ": "Ouzbékistan",
+    "VA": "État de la Cité du Vatican",
+    "VC": "Saint-Vincent-et-les-Grenadines",
+    "VE": "Venezuela",
+    "VG": "Îles Vierges britanniques",
+    "VI": "Îles Vierges des États-Unis",
+    "VN": "Vietnam",
+    "VU": "Vanuatu",
+    "WF": "Wallis-et-Futuna",
+    "WS": "Samoa",
+    "XK": "Kosovo",
+    "YE": "Yémen",
+    "YT": "Mayotte",
+    "ZA": "Afrique du Sud",
+    "ZM": "Zambie",
+    "ZW": "Zimbabwe",
+    "ZZ": "Non spécifié"
+  },
+  "industry": {
+    "drink": "Boissons, vins et spiritueux",
+    "cosmetic": "Cosmétiques et parfums",
+    "food": "Agro-alimentaire",
+    "medical": "Médical & pharmaceutique",
+    "fashion": "Prêt à porter",
+    "electronic": "Electronique et jouets",
+    "edition": "Edition"
+  },
+  "locale": {
+    "AF": "Afrikanns",
+    "SQ": "Albanais",
+    "AR": "Arabe",
+    "HY": "Arménien",
+    "EU": "Basque",
+    "BN": "Bengali",
+    "BG": "Bulgare",
+    "CA": "Catalan",
+    "KM": "Cambodian",
+    "ZH": "Chinois (Mandarin)",
+    "HR": "Croate",
+    "CS": "Tchèque",
+    "DA": "Danois",
+    "NL": "Néerlandais",
+    "EN": "Anglais",
+    "ET": "Estonien",
+    "FJ": "Fidji",
+    "FI": "Finnois",
+    "FR": "Français",
+    "KA": "Georgien",
+    "DE": "Allemand",
+    "EL": "Grèque",
+    "GU": "Gujarati",
+    "HE": "Hébreux",
+    "HI": "Hindi",
+    "HU": "Hongrois",
+    "IS": "Icelandais",
+    "ID": "Indonésien",
+    "GA": "Irlandais",
+    "IT": "Italien",
+    "JA": "Japonais",
+    "JW": "Javanais",
+    "KO": "Coréen",
+    "LA": "Latin",
+    "LV": "Latvian",
+    "LT": "Lithuanian",
+    "MK": "Macedonian",
+    "MS": "Malay",
+    "ML": "Malayalam",
+    "MT": "Maltese",
+    "MI": "Maori",
+    "MR": "Marathi",
+    "MN": "Mongole",
+    "NE": "Nepali",
+    "NO": "Norwegian",
+    "FA": "Perse",
+    "PL": "Polonais",
+    "PT": "Portugais",
+    "PA": "Punjabi",
+    "QU": "Quechua",
+    "RO": "Romanian",
+    "RU": "Russe",
+    "SM": "Samoan",
+    "SR": "Serbian",
+    "SK": "Slovak",
+    "SL": "Slovenian",
+    "ES": "Espagnol",
+    "SW": "Swahili",
+    "SV": "Swedish ",
+    "TA": "Tamil",
+    "TT": "Tatar",
+    "TE": "Telugu",
+    "TH": "Thai",
+    "BO": "Tibetan",
+    "TO": "Tonga",
+    "TR": "Turkish",
+    "UK": "Ukranian",
+    "UR": "Urdu",
+    "UZ": "Uzbek",
+    "VI": "Vietnamese",
+    "CY": "Welsh",
+    "XH": "Xhosa"
+  }
+}
